@@ -1,0 +1,12 @@
+* C:\Users\Merrick\Documents\LTspiceXVII\balun.asc
+C1 N001 0 7.3pF
+C2 pad1 0 7.3pF
+C3 N002 N001 7.3pF
+C4 pad2 N002 7.3pF
+L1 N002 0 18.25nH
+L2 N001 pad1 18.25nH
+V1 N001 0 SINE(0 1 430000000) AC 1
+R1 pad1 pad2 50
+.tran 0 2015ns 2000ns
+.backanno
+.end
