@@ -1,8 +1,6 @@
 this is a test
 
-<<<<<<< HEAD
 Matthew Lipsun
-=======
 Joey
 Jason
->>>>>>> fff616dbe80a4d4ff0c8bb3309a78b5b44a9fec9
+
