@@ -1,7 +1,7 @@
-### Welcome to the UCR cubesat project!
+# Welcome to the UCR cubesat project!
 
-## ===FOR NEW MEMBERS===
-# To download this repository:
+## FOR NEW MEMBERS
+### To download this repository:
 
 install git to your computer: `https://git-scm.com/downloads`
 
@@ -13,7 +13,7 @@ clone this repo: `git clone https://github.com/UCRAerospaceSystems/CubeSat`
 All the files will now be installed to your local machine!
 
 
-# To commit your changes to this repository:
+### To commit your changes to this repository:
 
 ensure that you're up to date with most recent version: `git pull origin master`
 add all files: `git add .`
