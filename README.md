@@ -19,7 +19,7 @@ Ensure that you're up to date with most recent version: `git pull origin master`
 
 Add all files: `git add .`
 
-Commit your changes `git commit -m "your commit message here"`
+Commit your changes: `git commit -m "your commit message here"`
 
 Push to the repo: `git push origin master`
 
