@@ -1,6 +1,6 @@
-# Welcome to the UCR cubesat project!
+# Welcome to the UCR CubeSat project!
 
-## FOR NEW MEMBERS
+## For New Members
 ### To download this repository:
 
 Install git to your computer: https://git-scm.com/downloads
