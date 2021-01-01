@@ -13,8 +13,7 @@ __interrupt void on_expr(void) { //code to be called upon WDT expiration
     blinkLED();
 }
 
-void main(void)
-{
+void main(void) {
     WDTCTL = WDTPW | WDFLAGS; //configure watchdog
 	SFRIE1 |= 0b1; //enable watchdog interrupts
 
