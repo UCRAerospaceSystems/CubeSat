@@ -8,7 +8,7 @@ This folder contains the [CC1101 MSP430 Energia Library v2](https://github.com/a
 * [MSP430FR2433 User Guide](https://www.ti.com/lit/pdf/slau680)
 
 ## 8-pin CC1101 Pinout
-![CPinout](/../images/CC1101Pinout.png)
+![CPinout](../images/CC1101Pinout.png)
 
 ## MSP430FR2355 Pinout
 
